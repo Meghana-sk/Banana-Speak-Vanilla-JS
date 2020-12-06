@@ -3,6 +3,7 @@
 <div>
 <img src="https://www.svgrepo.com/show/40048/minions.svg" width="100" height="100">
 </div>
+This is a English to Banana/Minion's language translator app
 
 ### Developed using 
 
