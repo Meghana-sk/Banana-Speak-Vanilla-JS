@@ -103,7 +103,7 @@ footer{
   font-weight: bold;
   font-size: large;
   margin: 0rem auto 0.5rem auto;
-  width: 10%;
+  width: fit-content;
   background-color: #3a0ca3;
   
 }
